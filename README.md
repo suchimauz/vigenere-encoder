@@ -2,4 +2,4 @@
 
 Программа для шифрования, дешифрования шифра Вижинера
 
-Program for encode, decode and hack Vigenere Cipher
+Program for encode, decode Vigenere Cipher
